@@ -1,4 +1,4 @@
-**Acesso Pessoal do iPhone não funciona clicando direto pra conectar.** 
+**Acesso Pessoal do iPhone não funciona clicando direto pra conectar no Hackintosh.** 
 
 ![Clicar direto não funciona](https://github.com/bluppus20/Hotspot-iPhone-com-placas-wi-fi-Intel/assets/128947647/c1649ac8-74b4-48a5-b790-4d3cc7e735ec)
 ![Erro de conexão](https://github.com/bluppus20/Hotspot-iPhone-com-placas-wi-fi-Intel/assets/128947647/347d5863-3904-4e3a-8d47-f4a0b44dd8b0)
@@ -44,7 +44,7 @@ Teste mostrando que funciona, velocidade baixa por conta do sinal 4G fraco
 
 
 
-**OBS: Sempre que precisar conectar o acesso pessoal via Wi-Fi tem que realizar o passo a passo todas as vezes.**
+**OBS: Para conectar o acesso pessoal via Wi-Fi tem que realizar o passo a passo todas as vezes.**
 
 
 
